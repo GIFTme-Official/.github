@@ -11,7 +11,7 @@ We are a small startup company based in australian. Checkout our website at http
 ## Information
 
 ### Our goal
-We want to allow all companies to sell gift cards to their customers. Only the big companies have the resources and systems to sell gift cards, but we want to change this.
+We want to allow all companies to sell gift cards to their customers. Only the big companies have the resources and systems to sell gift cards, but we want to change that.
 
 ### Contact Us
 You can contact us at service@sellgiftvouchers.com for anything related to the website or our service.
