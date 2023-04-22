@@ -1,7 +1,14 @@
-## Hi there 👋
+<div align="center">
+<img src="https://github.com/GIFTme-Official/.github/blob/main/GIFTme.png">
+</div>
+
+
+## GIFTme Introduction
 
 GIFTme is a company that allows small and large businesses to sell gift cards to their customers.
 We are a small startup company based in australian. Checkout our website at https://sellgiftvouchers.com/.
+
+## Information
 
 ### Our goal
 We want to allow all companies to sell gift cards to their customers. Only the big companies have the resources and systems to sell gift cards, but we want to change this.
